@@ -29,7 +29,7 @@ I am an aspiring data analyst <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI
 
 - ☕ In my free time, I try to finish the courses I am enrolled in.
 
-- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jethro-elijah-bolima/)
+- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jethro-elijah-bolima/)
 
 ---
 
@@ -39,5 +39,6 @@ I am an aspiring data analyst <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" title="Tableau" alt="Tableau" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40" height="40"/>
 </div>
