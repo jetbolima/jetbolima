@@ -6,6 +6,11 @@
   <a href="https://www.linkedin.com/in/jethro-elijah-bolima/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+  <a href="https://public.tableau.com/app/profile/jethro.elijah.bolima/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-yellow?style=for-the-badge&logo=tableau&logoColor=red" alt="Tableau Badge"/>
+  </a>
+  
 </div>
 
 <h1>
