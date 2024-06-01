@@ -10,6 +10,10 @@
   <a href="https://public.tableau.com/app/profile/jethro.elijah.bolima/vizzes">
     <img src="https://img.shields.io/badge/Tableau-yellow?style=for-the-badge&logo=tableau&logoColor=red" alt="Tableau Badge"/>
   </a>
+
+  <a href="https://www.kaggle.com/jethroelijahbolima">
+    <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
+  </a>
   
 </div>
 
