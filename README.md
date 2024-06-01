@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://www.kaggle.com/jethroelijahbolima">
-    <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-grey?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
   </a>
   
 </div>
