@@ -43,7 +43,7 @@ I am an aspiring data analyst <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI
 
 - ☕ In my free time, I try to finish the courses I am enrolled in.
 
-- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jethro-elijah-bolima/)
+- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jethro-elijah-bolima/) [![Gmail Badge](https://img.shields.io/badge/jetbolima@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:jetbolima@gmail.com)
 
 ---
 
