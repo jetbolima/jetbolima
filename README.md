@@ -37,9 +37,9 @@
 ### 📖 About Me :
 I am an aspiring data analyst <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNrbjl3azNzYnViamhzOXNkdWx1MWN0eXJneHdlY2F1dDd3c2N5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wW4ESTnavhypLsb4l/giphy.gif" width="30">.
 
-- 📊 I'm a Master of Science in Mathematics exploring more about data science.
+- 📊 I'm a Master of Science in Mathematics.
 
-- 🌱 Currently learning about Snowflake.
+- 🌱 Currently learning more about data science.
 
 - ☕ In my free time, I try to finish the courses I am enrolled in.
 
